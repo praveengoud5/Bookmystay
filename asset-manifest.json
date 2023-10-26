@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Bookmystay/static/css/main.bce79baf.chunk.css",
+    "main.js": "/Bookmystay/static/js/main.9bd0642c.chunk.js",
+    "main.js.map": "/Bookmystay/static/js/main.9bd0642c.chunk.js.map",
+    "runtime-main.js": "/Bookmystay/static/js/runtime-main.3428bc79.js",
+    "runtime-main.js.map": "/Bookmystay/static/js/runtime-main.3428bc79.js.map",
+    "static/css/2.11829350.chunk.css": "/Bookmystay/static/css/2.11829350.chunk.css",
+    "static/js/2.cb1b40e3.chunk.js": "/Bookmystay/static/js/2.cb1b40e3.chunk.js",
+    "static/js/2.cb1b40e3.chunk.js.map": "/Bookmystay/static/js/2.cb1b40e3.chunk.js.map",
+    "index.html": "/Bookmystay/index.html",
+    "precache-manifest.39fe90a9deeb8da94528436225090b18.js": "/Bookmystay/precache-manifest.39fe90a9deeb8da94528436225090b18.js",
+    "service-worker.js": "/Bookmystay/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Bookmystay/static/css/2.11829350.chunk.css.map",
+    "static/css/main.bce79baf.chunk.css.map": "/Bookmystay/static/css/main.bce79baf.chunk.css.map",
+    "static/js/2.cb1b40e3.chunk.js.LICENSE.txt": "/Bookmystay/static/js/2.cb1b40e3.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/Bookmystay/static/media/backgrnd.5ef674f8.jpg",
+    "static/media/App.css": "/Bookmystay/static/media/waterback.4df1bf95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3428bc79.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.cb1b40e3.chunk.js",
+    "static/css/main.bce79baf.chunk.css",
+    "static/js/main.9bd0642c.chunk.js"
+  ]
+}
