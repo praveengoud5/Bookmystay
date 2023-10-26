@@ -1,0 +1,23 @@
+.reviewholder{
+    margin-top:120px;
+    margin-left: 400px;
+    background-color: rgb(235, 231, 231);
+    width:600px;
+    border-radius: 5px;
+}
+
+.reviewbtn {
+    background-color: rgb(136, 104, 94);
+    font-family: Montserrat;
+    color:white;
+    border:rgb(219, 145, 49);
+    border-radius:4px;
+    height:37px;
+    width:20%;
+    font-size:14px;
+    margin-left: 442px;
+}
+.reviewbtn:hover{
+    background-color: rgb(124, 82, 69);
+
+}

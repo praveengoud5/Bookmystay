@@ -1,0 +1,38 @@
+.regbtn {
+    background-color: rgb(136, 104, 94);
+    font-family: Montserrat;
+    color:white;
+    border:rgb(219, 145, 49);
+    border-radius:4px;
+    height:37px;
+    width:100%;
+    font-size:14px;
+}
+.regbtn:hover{
+    background-color: rgb(124, 82, 69);
+
+}
+.regImage{
+    width:370px;
+    height:470px;
+    margin:10px;
+}
+.formtray{
+    width:400px;
+}
+table{
+    background-color: rgb(235, 231, 231);
+    border-radius:5px;
+    margin-left:150px;
+}
+.myinput{
+    height:32px;
+}
+form{
+    font-size:13px;
+    color:rgb(136, 90, 76);
+    padding-top:5px;
+    padding-left:20px;
+    padding-right:25px;
+    font-family: Montserrat;
+}

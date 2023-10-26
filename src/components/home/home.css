@@ -1,0 +1,18 @@
+.mycontent{
+	text-align:center;
+	font-family: 'Dancing Script', cursive;
+	margin-top:100px;
+	margin-left:40px;
+	color:rgb(0, 0, 0);
+	font-size:35px;
+	background-image: url('../../backgrnd.jpg');
+	background-position: center;
+	background: rgba(249, 248, 248, 0.7);
+	background-size: cover;
+	border-radius: 10px;
+	width:1050px;
+}
+
+.holder{
+	text-align: center;
+}

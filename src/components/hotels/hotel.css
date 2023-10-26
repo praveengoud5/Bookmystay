@@ -1,0 +1,43 @@
+.cards{
+    font-family: Montserrat;
+    margin:10px;
+    background-color: rgb(235, 231, 231);
+    color:rgb(17, 18, 18);
+    border-radius: 5px;
+}
+
+.cards:hover{
+    box-shadow: 2px 2px 2px 2px grey;
+}
+
+.cardImg{
+    margin-top:15px;
+    margin-bottom:15px;
+    margin-left:25px;
+    width:160px;
+    height:160px;
+    border:5px solid rgb(190, 231, 228);
+    box-shadow:1px 1px 5px 2px rgb(138, 163, 166);
+    border-radius: 50%;
+}
+.cardText{
+    font-size:13px;
+    line-height: 10px;
+}
+.hotelBtn{
+    background-color: rgb(131, 195, 196);
+    font-family: Montserrat;
+    color:white;
+    border-radius:4px;
+    height:37px;
+    width:100%;
+    font-size:14px;
+    margin-top:18px;
+    border:rgb(124, 179, 179);
+}
+.hotelBtn:hover{
+    background-color: rgb(47, 218, 230);
+}
+.cardcontent{
+    padding-top:25px;
+}
